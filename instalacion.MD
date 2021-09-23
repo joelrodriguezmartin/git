@@ -25,9 +25,9 @@ Como podemos observar en el resultado en nuestro caso Git no estaba instalado po
 
 Procederemos a la instalación utilizando la herramienta apt de Linux, actualizando primero con el comando “sudo apt update” y luego instalandola con el comando “sudo apt install git”:<br/>
 ![Captura 2](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura2.png)<br/>
-
-A continuación comprobamos la versión de git instalada: <br/>
 ![Captura 3](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura3.png)<br/>
+A continuación comprobamos la versión de git instalada: <br/>
+![Captura 4](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura4.png)<br/>
 Como podemos ver en el output de la terminal la versión instalada es 2.25.1
 
 
@@ -41,25 +41,25 @@ Como podemos ver en el output de la terminal la versión instalada es 2.25.1
 A continuación instalaremos Git desde la fuente.
 
 Empezamos por comprobar la versión de Git y actualizar una vez mas el administrador de paquetes:<br/>
-![Captura 4](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura4.png)<br/>
+![Captura 5](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura5.png)<br/>
  
 A continuacion instalamos los paquetes necesarios para Git con “sudo apt install” seguido de todos los paquetes:<br/>
-![Captura 5](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura5.png)<br/>
-Con las dependencias instaladas creamos un directorio temporal, donde descargaremos Git, y nos movemos a él. A continuación utilizando curl descargaremos la última versión de Git obtenida en la página oficial:<br/>
 ![Captura 6](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura6.png)<br/>
+Con las dependencias instaladas creamos un directorio temporal, donde descargaremos Git, y nos movemos a él. A continuación utilizando curl descargaremos la última versión de Git obtenida en la página oficial:<br/>
+![Captura 7](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura7.png)<br/>
 
 
 Después descomprimimos el archivo tarball y nos dirigimos al directorio creado en la descompresión.<br/>
-![Captura 7](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura7.png)<br/>
+![Captura 8](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura8.png)<br/>
 
 Una vez ahí creamos e instalamos el paquete con los comandos en las capturas:<br/>
-![Captura 8](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura8.png)<br/>
-![Captura 9](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura9.png)<br/>
 
+![Captura 9](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura9.png)<br/>
+![Captura 10](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura10.png)<br/>
 
 
 Finalmente en una nueva terminal comprobamos la versión de Git y observamos que es la deseada (2.29.3)<br/>
-![Captura 10](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura10.png)<br/>
+
 
 
 Configuración de Git:

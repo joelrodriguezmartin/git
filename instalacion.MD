@@ -59,13 +59,13 @@ Una vez ahí creamos e instalamos el paquete con los comandos en las capturas:<b
 
 
 Finalmente en una nueva terminal comprobamos la versión de Git y observamos que es la deseada (2.29.3)<br/>
-
+![Captura 11](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura11.png)<br/>
 
 
 Configuración de Git:
 Una vez realizada la instalación de Git debemos configurarlo de manera que muestre la información correcta.
 Para ello utilizaremos el comando “git config –global” seguido de nuestra información, y posteriormente podemos comprobarlo con  “git config --list”<br/>
-![Captura 11](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura11.png)<br/>
+![Captura 12](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura12.png)
 
 
 
@@ -84,7 +84,8 @@ Para ello utilizaremos el comando “git config –global” seguido de nuestra 
 
 Otra manera de cambiar la configuración es modificar el fichero de configuración de Git, que en nuestro caso haremos utilizando la herramienta nano, con el comando “nano ~/.gitconfig”.
 Esto abrirá el fichero y permitirá su edición como en la captura siguiente: 
-![Captura 12](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura12.png)
+![Captura 13](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura13.png)
+
 
 
 

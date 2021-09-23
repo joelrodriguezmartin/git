@@ -19,7 +19,7 @@ En primer lugar instalaremos Git con el administrador de paquetes de Linux.
 
 Para empezar comprobamos si Git está instalado en nuestra versión de Linux con el comando
 “git –version”:
-![Captura 1](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura1.png)
+![Captura 1](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura1.png)<br/>
 
 Como podemos observar en el resultado en nuestro caso Git no estaba instalado por defecto en nuestra versión de Linux.
 

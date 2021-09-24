@@ -1,16 +1,18 @@
 Joel Rodriguez Martín
 2º DAW
 
-Tarea 2: Manipulación de repositorios en Git
+# Tarea 2: Manipulación de repositorios en Git
 
-Indice
-Introducción:	1
-Configuración de git:	1
-Creación de un repositorio:	2
-Comprobar el estado del repositorio:	2
-Realizando commits:	3
-Modificación de ficheros:	3
-Historial:	4
+## Indice:
+1. Introducción:  	
+2. Configuración de git:	  
+3. Creación de un repositorio:  	
+4. Comprobar el estado del repositorio:	  
+5. Realizando commits:  	
+6. Modificación de ficheros:	  
+6. Historial:	  
+
+
 Introducción:
 En la siguiente tarea crearemos y manipularemos repositorios en Git.
 

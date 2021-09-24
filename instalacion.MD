@@ -5,7 +5,7 @@ Joel Rodriguez Martín
 
 ## Indice
 1. [Introducción:](#introduccion)
-2. [Instalación de Git:](#instalacion)	
+2. [Instalación de Git:](#instalacion)	  
     2.1 [Instalación de Git con paquetes predeterminados:](#predeterminado)	  
     2.2 [Instalación de Git desde la fuente:](#fuente)	  
 3. [Configuración de Git:](#configuracion)	

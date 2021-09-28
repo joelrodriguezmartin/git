@@ -56,7 +56,7 @@ Las tareas serán:
     • Añadir los cambios a la zona de intercambio temporal.   
     • Hacer un commit de los cambios con el mensaje Añadido capítulo 2.   
     • Mostrar las diferencias entre la última versión y dos versiones anteriores. 
-    <br/>
+<br/><br/>
 Los comandos utilizados fueron los siguientes:  
 
 ![Captura 3](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura3.png)<br/>

@@ -41,6 +41,7 @@ Las tareas serán:
     • Añadir los cambios a la zona de intercambio temporal.   
     • Hacer un commit de los cambios con el mensaje Añadido capítulo 1.   
     • Volver a mostrar el historial de cambios del repositorio.   
+    <br/>
 Los comandos utilizados serán los siguientes:   
 
 ![Captura 2](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura2.png)<br/>
@@ -54,7 +55,8 @@ Las tareas serán:
     • “El flujo de trabajo básico con Git consiste en: 1- Hacer cambios en el repositorio. 2- Añadir los cambios a la zona de intercambio temporal. 3- Hacer un commit de los cambios.”  
     • Añadir los cambios a la zona de intercambio temporal.   
     • Hacer un commit de los cambios con el mensaje Añadido capítulo 2.   
-    • Mostrar las diferencias entre la última versión y dos versiones anteriores.   
+    • Mostrar las diferencias entre la última versión y dos versiones anteriores. 
+    <br/>
 Los comandos utilizados fueron los siguientes:  
 
 ![Captura 3](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura3.png)<br/>
@@ -69,6 +71,7 @@ Los objetivos serán:
     • Añadir los cambios a la zona de intercambio temporal.   
     • Hacer un commit de los cambios con el mensaje Añadido capítulo 3.   
     • Mostrar las diferencias entre la primera y la última versión del repositorio.   
+    <br/>
 Los comandos utilizados fueron los siguientes:  
 ![Captura 4](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura4.png)<br/>
 
@@ -121,6 +124,7 @@ Las tareas objetivo eran las siguientes:
     • Añadir los cambios a la zona de intercambio temporal.   
     • Hacer un commit de los cambios con el mensaje Añadido capítulo 5 al índice..   
     • Mostrar quién ha hecho cambios sobre el fichero indice.txt.   
+    <br/>
 Los comandos usados fueron:  
 ![Captura 6](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura6.png)<br/>
 Utilizamos el comando annotate para ver los cambios en un fichero.
@@ -131,6 +135,7 @@ Utilizamos el comando annotate para ver los cambios en un fichero.
 ### Ejercicio 5: <a name="ejercicio5"></a>
 El objetivo era:  
     • Crear una nueva rama bibliografia y mostrar las ramas del repositorio.  
+    <br/>
 Los comandos usados fueron:  
 ![Captura 7](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura7.png)<br/>
 
@@ -149,6 +154,7 @@ Los objetivos eran:
     • Añadir los cambios a la zona de intercambio temporal.   
     • Hacer un commit con el mensaje “Añadido capítulo 4.”   
     • Mostrar la historia del repositorio incluyendo todas las ramas.   
+    <br/>
 Los comandos usados fueron:  
 ![Captura 8](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura8.png)<br/>
 
@@ -167,6 +173,7 @@ Los objetivos eran:
     • Añadir los cambios a la zona de intercambio temporal.   
     • Hacer un commit con el mensaje “Añadida primera referencia bibliográfica.”   
     • Mostrar la historia del repositorio incluyendo todas las ramas.   
+    <br/>
 
 Los comandos utilizados fueron:  
 ![Captura 9](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura9.png)<br/>
@@ -180,6 +187,7 @@ En este ejercicio haremos lo siguiente:
     • Mostrar la historia del repositorio incluyendo todas las ramas.   
     • Eliminar la rama bibliografia.   
     • Mostrar de nuevo la historia del repositorio incluyendo todas las ramas.   
+    <br/>
 Los comandos fueron los siguientes:  
 ![Captura 10](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura10.png)<br/>
 

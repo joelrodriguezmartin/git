@@ -19,10 +19,10 @@ Joel Rodriguez Martín
 
 
 
-### Introducción
+### Introducción <a name="introduccion"></a>
 En la siguiente tarea utilizaremos comandos mas avanzados de git.
 
-### Preparación:
+### Preparación: <a name="preparacion"></a>
 Para la realización de las tareas primero clonaremos un repositorio remoto y trabajaremos sobre él.
 
 
@@ -33,7 +33,7 @@ Para la realización de las tareas primero clonaremos un repositorio remoto y tr
 
 
 
-### Ejercicio 1:
+### Ejercicio 1: <a name="ejercicio1"></a>
 Las tareas serán:
     • Mostrar el historial de cambios del repositorio. 
     • Crear la carpeta capitulos y crear dentro de ella el fichero capitulo1.txt con el siguiente texto. 
@@ -47,7 +47,7 @@ Se puede observar como en el historial se añade un commit con el mensaje utiliz
 
 
 
-### Ejercicio 2:
+### Ejercicio 2: <a name="ejercicio2"></a>
 Las tareas serán:
     • Crear el fichero capitulo2.txt en la carpeta capitulos con el siguiente texto. 
     • “El flujo de trabajo básico con Git consiste en: 1- Hacer cambios en el repositorio. 2- Añadir los cambios a la zona de intercambio temporal. 3- Hacer un commit de los cambios.”
@@ -59,7 +59,7 @@ Los comandos utilizados fueron los siguientes:
 Con el comando diff podemos ver las diferencias entre el primer commit y el actual
 
 
-### Ejercicio 3:
+### Ejercicio 3: <a name="ejercicio3"></a>
 Los objetivos serán:
     • Crear el fichero capitulo3.txt en la carpeta capitulos con el siguiente texto. 
     • “Git permite la creación de ramas lo que permite tener distintas versiones del mismo proyecto y trabajar de manera simultanea en ellas.”
@@ -111,7 +111,7 @@ Y utilizamos el codigo hash con el comando diff para ver las diferencias entre l
 
 
 
-### Ejercicio 4:
+### Ejercicio 4: <a name="ejercicio4"></a>
 Las tareas objetivo eran las siguientes:
     • Añadir al final del fichero indice.txt la siguiente línea: 
     • “Capítulo 5: Conceptos avanzados”
@@ -125,7 +125,7 @@ Utilizamos el comando annotate para ver los cambios en un fichero.
 
 
 
-### Ejercicio 5:
+### Ejercicio 5: <a name="ejercicio5"></a>
 El objetivo era:
     • Crear una nueva rama bibliografia y mostrar las ramas del repositorio.
 Los comandos usados fueron:
@@ -138,7 +138,7 @@ Los comandos usados fueron:
 
 
 
-### Ejercicio 6:
+### Ejercicio 6: <a name="ejercicio6"></a>
 Los objetivos eran: 
     • Crear el fichero capitulos/capitulo4.txt y añadir el texto siguiente: 
     • “En este capítulo veremos cómo usar GitHub para alojar repositorios en remoto.”
@@ -153,7 +153,7 @@ Los comandos usados fueron:
 
 
 
-### Ejercicio 7:
+### Ejercicio 7: <a name="ejercicio7"></a>
 Los objetivos eran:
     • Cambiar a la rama bibliografia. 
     • Crear el fichero bibliografia.txt y añadir la siguiente referencia: 
@@ -167,7 +167,7 @@ Hacemos commits en la nueva rama
 
 
 
-### Ejercicio 8:
+### Ejercicio 8: <a name="ejercicio8"></a>
 En este ejercicio haremos lo siguiente:
     • Fusionar la rama bibliografia con la rama master. 
     • Mostrar la historia del repositorio incluyendo todas las ramas. 
@@ -181,7 +181,7 @@ Los comandos fueron los siguientes:
 
 
 
-### Ejercicio 9:
+### Ejercicio 9: <a name="ejercicio9"></a>
 Las tareas eran las siguientes: 
     • Crear la rama bibliografia. 
     • Cambiar a la rama bibliografia. 

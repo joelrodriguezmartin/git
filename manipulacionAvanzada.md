@@ -23,8 +23,8 @@ Joel Rodriguez Martín
 En la siguiente tarea utilizaremos comandos mas avanzados de git.
 
 ### Preparación: <a name="preparacion"></a>
-Para la realización de las tareas primero clonaremos un repositorio remoto y trabajaremos sobre él.
-
+Para la realización de las tareas primero clonaremos un repositorio remoto y trabajaremos sobre él.    
+![Captura 1](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura1.png)<br/>
 
 
 
@@ -43,7 +43,7 @@ Las tareas serán:
     • Volver a mostrar el historial de cambios del repositorio. 
 Los comandos utilizados serán los siguientes: 
 Se puede observar como en el historial se añade un commit con el mensaje utilizado.
-
+![Captura 2](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura2.png)<br/>
 
 
 
@@ -54,7 +54,9 @@ Las tareas serán:
     • Añadir los cambios a la zona de intercambio temporal. 
     • Hacer un commit de los cambios con el mensaje Añadido capítulo 2. 
     • Mostrar las diferencias entre la última versión y dos versiones anteriores. 
-Los comandos utilizados fueron los siguientes:
+Los comandos utilizados fueron los siguientes:  
+
+![Captura 3](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura3.png)<br/>
 
 Con el comando diff podemos ver las diferencias entre el primer commit y el actual
 
@@ -66,7 +68,8 @@ Los objetivos serán:
     • Añadir los cambios a la zona de intercambio temporal. 
     • Hacer un commit de los cambios con el mensaje Añadido capítulo 3. 
     • Mostrar las diferencias entre la primera y la última versión del repositorio. 
-Los comandos utilizados fueron los siguientes:
+Los comandos utilizados fueron los siguientes:  
+![Captura 4](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura4.png)<br/>
 
 
 
@@ -80,10 +83,9 @@ Los comandos utilizados fueron los siguientes:
 
 
 
+Hacemos cambios y utilizamos el historial para recoger el codigo hash de un commit.  
 
-Hacemos cambios y utilizamos el historial para recoger el codigo hash de un commit.
-
-
+![Captura 5](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura5.png)<br/>
 
 
 
@@ -118,8 +120,8 @@ Las tareas objetivo eran las siguientes:
     • Añadir los cambios a la zona de intercambio temporal. 
     • Hacer un commit de los cambios con el mensaje Añadido capítulo 5 al índice.. 
     • Mostrar quién ha hecho cambios sobre el fichero indice.txt. 
-Los comandos usados fueron:
-
+Los comandos usados fueron:  
+![Captura 6](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura6.png)<br/>
 Utilizamos el comando annotate para ver los cambios en un fichero.
 
 
@@ -128,7 +130,8 @@ Utilizamos el comando annotate para ver los cambios en un fichero.
 ### Ejercicio 5: <a name="ejercicio5"></a>
 El objetivo era:
     • Crear una nueva rama bibliografia y mostrar las ramas del repositorio.
-Los comandos usados fueron:
+Los comandos usados fueron:  
+![Captura 7](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura7.png)<br/>
 
 
 
@@ -145,7 +148,9 @@ Los objetivos eran:
     • Añadir los cambios a la zona de intercambio temporal. 
     • Hacer un commit con el mensaje “Añadido capítulo 4.” 
     • Mostrar la historia del repositorio incluyendo todas las ramas. 
-Los comandos usados fueron:
+Los comandos usados fueron:  
+![Captura 8](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura8.png)<br/>
+
 
 
 
@@ -162,7 +167,8 @@ Los objetivos eran:
     • Hacer un commit con el mensaje “Añadida primera referencia bibliográfica.” 
     • Mostrar la historia del repositorio incluyendo todas las ramas. 
 
-Los comandos utilizados fueron:
+Los comandos utilizados fueron:  
+![Captura 9](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura9.png)<br/>
 Hacemos commits en la nueva rama
 
 
@@ -173,7 +179,8 @@ En este ejercicio haremos lo siguiente:
     • Mostrar la historia del repositorio incluyendo todas las ramas. 
     • Eliminar la rama bibliografia. 
     • Mostrar de nuevo la historia del repositorio incluyendo todas las ramas. 
-Los comandos fueron los siguientes:
+Los comandos fueron los siguientes:  
+![Captura 10](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura10.png)<br/>
 
 
 
@@ -213,7 +220,8 @@ Las tareas eran las siguientes:
 
 
 
-Empezaremos por hacer los cambios de la rama bibliografia.
+Empezaremos por hacer los cambios de la rama bibliografia.  
+![Captura 11](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura11.png)<br/>
 
 
 
@@ -228,7 +236,8 @@ Empezaremos por hacer los cambios de la rama bibliografia.
 
 
 
-Luego hacemos los cambios en la rama principal
+Luego hacemos los cambios en la rama principal  
+![Captura 12](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura12.png)<br/>
 
 
 
@@ -246,4 +255,5 @@ Luego hacemos los cambios en la rama principal
 
 
 
-Y finalmente solucionamos el conflicto y comprobamos el historial.
+Y finalmente solucionamos el conflicto y comprobamos el historial.  
+![Captura 13](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura13.png)<br/>

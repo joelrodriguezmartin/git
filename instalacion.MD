@@ -1,20 +1,21 @@
 Joel Rodriguez Martín
 2º DAW
 
-Tarea 1: Instalación de Git en Linux
+# Tarea 1: Instalación de Git en Linux
 
-Indice
-Introducción:	1
-Instalación de Git:	1
-1. Instalación de Git con paquetes predeterminados:	1
-2. Instalación de Git desde la fuente:	3
-Configuración de Git:	5
-Introducción:
+## Indice
+1. [Introducción:](#introduccion)
+2. [Instalación de Git:](#instalacion)	  
+    2.1 [Instalación de Git con paquetes predeterminados:](#predeterminado)	  
+    2.2 [Instalación de Git desde la fuente:](#fuente)	  
+3. [Configuración de Git:](#configuracion)	
+
+### Introducción: <a name="introduccion"></a>
 En la siguiente tarea se procederá a describir los pasos necesarios para la instalación de Git en Linux. 
 
-Instalación de Git:
+### Instalación de Git:<a name="isntalacion"></a>
 
-1. Instalación de Git con paquetes predeterminados:
+### 1. Instalación de Git con paquetes predeterminados: <a name="predeterminado"></a>
 En primer lugar instalaremos Git con el administrador de paquetes de Linux.
 
 Para empezar comprobamos si Git está instalado en nuestra versión de Linux con el comando
@@ -37,7 +38,7 @@ Como podemos ver en el output de la terminal la versión instalada es 2.25.1
 
 
 
-2. Instalación de Git desde la fuente:
+### 2. Instalación de Git desde la fuente: <a name="fuente"></a>
 A continuación instalaremos Git desde la fuente.
 
 Empezamos por comprobar la versión de Git y actualizar una vez mas el administrador de paquetes:<br/>
@@ -62,7 +63,7 @@ Finalmente en una nueva terminal comprobamos la versión de Git y observamos que
 ![Captura 11](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura11.png)<br/>
 
 
-Configuración de Git:
+### Configuración de Git: <a name="configuracion"></a>
 Una vez realizada la instalación de Git debemos configurarlo de manera que muestre la información correcta.
 Para ello utilizaremos el comando “git config –global” seguido de nuestra información, y posteriormente podemos comprobarlo con  “git config --list”<br/>
 ![Captura 12](https://github.com/joelrodriguezmartin/git/blob/main/imgsT1/captura12.png)

@@ -41,8 +41,8 @@ Las tareas serán:
     • Añadir los cambios a la zona de intercambio temporal.   
     • Hacer un commit de los cambios con el mensaje Añadido capítulo 1.   
     • Volver a mostrar el historial de cambios del repositorio.   
-Los comandos utilizados serán los siguientes: 
-Se puede observar como en el historial se añade un commit con el mensaje utilizado.
+Los comandos utilizados serán los siguientes:   
+Se puede observar como en el historial se añade un commit con el mensaje utilizado. 
 ![Captura 2](https://github.com/joelrodriguezmartin/git/blob/main/imgsT3/captura2.png)<br/>
 
 

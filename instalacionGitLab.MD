@@ -31,8 +31,15 @@ Primero:
 
 Después:   
 
+
+Y por último ejecutamos el comando sudo gitlab-ctl reconfigure con resultado: 
+
+
+
 ### Paso 4 Acceso:<a name="paso4"></a>  
-Finalmente accedemos y configuramos el usuario.:  
+Configuramos la contraseña del root: 
+
+Accedemos: 
 
 
 

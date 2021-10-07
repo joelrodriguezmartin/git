@@ -5,12 +5,12 @@ Joel Rodriguez Martín
 
 ## Indice
 [Introducción](#introduccion)    
-[Paso 1 Actualización de repositorios](#paso1)		
-[Paso 2 Descarga de Tomcat y añadir usuario:](#paso2)		
-[Paso 3 Cambio de directorio:](#paso3)		
-[Paso 4 Configuración de Tomcat:](#paso4)	
-[Paso 5 Iniciar servicio:](#paso5)		
-[Paso 6 Cambiamos puerto y accedemos:](#paso6)		
+[Paso 1 Actualización de repositorios](#paso1)		  
+[Paso 2 Descarga de Tomcat y añadir usuario:](#paso2)		  
+[Paso 3 Cambio de directorio:](#paso3)		  
+[Paso 4 Configuración de Tomcat:](#paso4)	  
+[Paso 5 Iniciar servicio:](#paso5)		  
+[Paso 6 Cambiamos puerto y accedemos:](#paso6)		  
 
 ### Introducción:  <a name="introduccion"></a>
 En esta práctica realizaremos la instalación de Tomcat en Linux  

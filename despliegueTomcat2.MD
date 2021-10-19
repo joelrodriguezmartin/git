@@ -53,7 +53,7 @@ Posteriormente observé que en el fichero web.xml se referenciaban clases que no
 
 Utilizando las de el repositorio “org.glassfish” en lugar de las de “com.sun”.
 Con esto consegui que la clase que faltaba pasara a ser otra, javax.Filter.
-Para solucionarlo añadi al pom y al webxml la dependencia a javax:
+Para solucionarlo añadi al pom y al webxml la dependencia a javax:    
 POM:
 ![Captura 7](https://github.com/joelrodriguezmartin/git/blob/main/imgsT8/captura7.png)<br/>
 

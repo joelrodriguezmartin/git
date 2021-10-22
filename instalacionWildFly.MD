@@ -44,7 +44,7 @@ Iniciamos el servicio, comprobamos que este arrancado y lo habilitamos para inic
 
 
 # Paso 3: Configurar WildFly:<a name="paso3"></a>  
-En primer lugar debemos cambiar el puerto de WildFly ya que el 8080 que aparece por defecto ya está ocupado. Utilizaremos el 8084.
+En primer lugar debemos cambiar el puerto de WildFly ya que el 8080 que aparece por defecto ya está ocupado. Utilizaremos el 8084.       
 ![Captura 1](https://github.com/joelrodriguezmartin/git/blob/main/imgsT9/captura9.png)<br/>  
 Y permitiremos el tráfico en ese puerto:
 ![Captura 1](https://github.com/joelrodriguezmartin/git/blob/main/imgsT9/captura10.png)<br/> 

@@ -1,20 +1,20 @@
 Joel Rodriguez Martín
 2º DAW
 
-Tarea 9: Instalación de WildFly
+### Tarea 9: Instalación de WildFly
 
-Indice
-[Introducción](#introduccion)  
-[Paso 1: Instalación de WildFly](#paso1) 	
-[Paso 2: Arrancar WildFly:](#paso2) 	
-[Paso 3: Configurar WildFly:](#paso3) 	
-[Paso 4: Acceso a WildFly:](#paso4) 	
+## Indice    
+[Introducción](#introduccion)      
+[Paso 1: Instalación de WildFly](#paso1) 	    
+[Paso 2: Arrancar WildFly:](#paso2) 	   
+[Paso 3: Configurar WildFly:](#paso3)     	
+[Paso 4: Acceso a WildFly:](#paso4) 	    
 
-Introducción:<a name="introduccion"></a>  
+# Introducción:<a name="introduccion"></a>  
 En este ejercicio realizaremos la instalación de WildFly
 
 
-Paso 1: Instalación de WildFly <a name="paso1"></a>  
+# Paso 1: Instalación de WildFly <a name="paso1"></a>  
 En primer lugar actualizaremos los repositorios con “sudo apt update” y “sudo apt upgrade”.
 Tras esto descargaremos WildFly con el comando wget: 
 ![Captura 1](https://github.com/joelrodriguezmartin/git/blob/main/imgsT9/captura1.png)<br/>  
@@ -27,8 +27,8 @@ Y extraemos el paquete con el comando “tar xvzf”, movemos a su ubicación y 
 Luego le damos acceso al usuario y grupo:
 ![Captura 1](https://github.com/joelrodriguezmartin/git/blob/main/imgsT9/captura4.png)<br/>  
 
-Paso 2: Arrancar WildFly:<a name="paso2"></a>  
-En primer lugar:
+# Paso 2: Arrancar WildFly:<a name="paso2"></a>  
+En primer lugar:    
 ![Captura 1](https://github.com/joelrodriguezmartin/git/blob/main/imgsT9/captura5.png)<br/>  
 Podemos ver el fichero de configuración de arranque:
 ![Captura 1](https://github.com/joelrodriguezmartin/git/blob/main/imgsT9/captura6.png)<br/>  
@@ -43,7 +43,7 @@ Iniciamos el servicio, comprobamos que este arrancado y lo habilitamos para inic
 
 
 
-Paso 3: Configurar WildFly:<a name="paso3"></a>  
+# Paso 3: Configurar WildFly:<a name="paso3"></a>  
 En primer lugar debemos cambiar el puerto de WildFly ya que el 8080 que aparece por defecto ya está ocupado. Utilizaremos el 8084.
 ![Captura 1](https://github.com/joelrodriguezmartin/git/blob/main/imgsT9/captura9.png)<br/>  
 Y permitiremos el tráfico en ese puerto:
@@ -54,7 +54,7 @@ Y permitiremos el tráfico en ese puerto:
 
 
 
-Paso 4: Acceso a WildFly:<a name="paso4"></a>  
+# Paso 4: Acceso a WildFly:<a name="paso4"></a>  
 Para empezar añadimos un usuario con el script dado por WildFly:
 ![Captura 1](https://github.com/joelrodriguezmartin/git/blob/main/imgsT9/captura11.png)<br/> 
 Luego gestionamos la consola remota en wildly.conf:

@@ -11,5 +11,5 @@ Tarea 5: [Instalación de Apache](instalacionApache.MD)
 Tarea 6: [Instalación de Apache-Tomcat](instalacionTomcat.MD)   
 Tarea 7: [Despliegue de aplicacion en Tomcat](despliegueTomcat.MD)   
 Tarea 8: [Despliegue de servicio REST en Tomcat](despliegueTomcat2.MD)   
-
+Tarea 8: [Instalacion de WildFly](instalacionWildFly.MD)   
 

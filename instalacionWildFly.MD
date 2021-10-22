@@ -7,7 +7,7 @@ Joel Rodriguez Martín
 [Introducción](#introduccion)      
 [Paso 1: Instalación de WildFly](#paso1) 	    
 [Paso 2: Arrancar WildFly:](#paso2) 	   
-[Paso 3: Configurar WildFly:](#paso3)     	
+[Paso 3: Configurar WildFly:](#paso3)         	
 [Paso 4: Acceso a WildFly:](#paso4) 	    
 
 # Introducción:<a name="introduccion"></a>  

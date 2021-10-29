@@ -5,10 +5,10 @@ Joel Rodriguez Martín
 
 ## Indice
 [Introducción:](#introduccion)       	
-[Paso 1: Instalar Nginx](#paso1)       		
-[Paso 1: Aplicar ajustes al firewall](#paso2)       	
-[Paso 3: Comprobar servidor web:](#paso3)       	
-[Paso 4: Configurar bloques de servidor:](#paso4)       	
+[Paso 1: Instalar Nginx](#paso1)<br/>       		
+[Paso 2: Aplicar ajustes al firewall](#paso2)     <br/>      	
+[Paso 3: Comprobar servidor web:](#paso3)    <br/>       	
+[Paso 4: Configurar bloques de servidor:](#paso4)  <br/>         	
 
 # Introducción:<a name="introduccion"></a>
 En esta práctica realizaremos la instalación del servidor Nginx en Ubuntu.

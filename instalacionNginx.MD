@@ -4,11 +4,11 @@ Joel Rodriguez Martín
 ### Tarea 11: Instalación de Nginx
 
 ## Indice
-[Introducción:](#introduccion)   	
-[Paso 1: Instalar Nginx](#paso1)   		
-[Paso 1: Aplicar ajustes al firewall](#paso2)   	
-[Paso 3: Comprobar servidor web:](#paso3)   	
-[Paso 4: Configurar bloques de servidor:](#paso4)   	
+[Introducción:](#introduccion)       	
+[Paso 1: Instalar Nginx](#paso1)       		
+[Paso 1: Aplicar ajustes al firewall](#paso2)       	
+[Paso 3: Comprobar servidor web:](#paso3)       	
+[Paso 4: Configurar bloques de servidor:](#paso4)       	
 
 # Introducción:<a name="introduccion"></a>
 En esta práctica realizaremos la instalación del servidor Nginx en Ubuntu.

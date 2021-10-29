@@ -38,10 +38,10 @@ Hacemos lo mismo con el subdominio que añadimos:
 # Paso 3 Probar PHP :<a name="paso3"></a>
 Creamos un fichero con el siguiente contenido:  
 ![Captura 1](https://github.com/joelrodriguezmartin/git/blob/main/imgsT12/captura6.png)<br/>
-
+![Captura 1](https://github.com/joelrodriguezmartin/git/blob/main/imgsT12/captura7.png)<br/>
 
 Y abrimos en el navegador tanto en localhost:  
-![Captura 1](https://github.com/joelrodriguezmartin/git/blob/main/imgsT12/captura7.png)<br/>
+![Captura 1](https://github.com/joelrodriguezmartin/git/blob/main/imgsT12/captura8.png)<br/>
 
 
 
@@ -50,6 +50,6 @@ Y abrimos en el navegador tanto en localhost:
 
 
 Como en el dominio your_domain:  
-![Captura 1](https://github.com/joelrodriguezmartin/git/blob/main/imgsT12/captura8.png)<br/>
+![Captura 1](https://github.com/joelrodriguezmartin/git/blob/main/imgsT12/captura9.png)<br/>
 
 Repositorio de github: https://github.com/joelrodriguezmartin/git

@@ -4,7 +4,7 @@ Joel Rodriguez Martín
 ### Tarea 11: Instalación de Nginx
 
 ## Indice
-[Introducción:](#introduccion)       	
+[Introducción:](#introduccion)     <br/>      	
 [Paso 1: Instalar Nginx](#paso1)<br/>       		
 [Paso 2: Aplicar ajustes al firewall](#paso2)     <br/>      	
 [Paso 3: Comprobar servidor web:](#paso3)    <br/>       	

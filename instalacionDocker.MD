@@ -4,10 +4,10 @@ Joel Rodriguez Martín
 ### Tarea 13: Instalación de Docker
 
 ## Indice
-[Introducción:](@introduccion)   
-[Paso 1: Instalar Docker:](@paso1)   
-[Paso 2: Trabajar con imagenes de Docker:](@paso2)   
-[Paso 3: Administrar contenedores de Docker:](@paso3)   
+[Introducción:](#introduccion)   
+[Paso 1: Instalar Docker:](#paso1)   
+[Paso 2: Trabajar con imagenes de Docker:](#paso2)   
+[Paso 3: Administrar contenedores de Docker:](#paso3)   
 
 # Introducción:<a name="introduccion"></a>  
 En esta tarea realizaremos la instalación de Docker en Linux.

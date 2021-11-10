@@ -4,8 +4,8 @@ Joel Rodriguez Martín
 ### Tarea 14: Instalación de WildFly en Docker
 
 ## Indice
-[Introducción:](@introduccion)   
-[Paso 1: Descarga de la imagen de WildFly:](@paso1)	   
+[Introducción:](#introduccion)   
+[Paso 1: Descarga de la imagen de WildFly:](#paso1)	   
 
 
 # Introducción:<a name="introduccion"></a>  

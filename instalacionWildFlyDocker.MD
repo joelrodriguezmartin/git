@@ -8,7 +8,7 @@ Joel Rodriguez Martín
 [Paso 1: Descarga de la imagen de WildFly:](@paso1)	   
 
 
-# Introducción:<a name="introduccion"></a>
+# Introducción:<a name="introduccion"></a>  
 En esta tarea realizaremos la instalación de WildFly en Docker   
   
 # Paso 1: Descarga de la imagen de WildFly:<a name="paso1"></a>

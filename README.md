@@ -15,5 +15,11 @@ Tarea 9: [Instalacion de WildFly](instalacionWildFly.MD)
 Tarea 10: [Despliegue en WildFly](despliegueWildFly.MD)   
 Tarea 11: [Instalacion de Nginx](instalacionNginx.MD)   
 Tarea 12: [Instalacion de PHP para Nginx y Apache](instalacionPHP.MD)  
+Tarea 13: [Instalacion de Docker](instalacionDocker.MD)  
+Tarea 14: [Instalacion de WildFly en Docker](instalacionWildFlyDocker.MD)  
+Tarea 15: [Dockerizacion de WildFly](dockerizacionWildFly.MD)  
+Tarea 16: [Clusterizacion de WildFly en Docker](clusterizacionWildFly.MD)  
+Tarea 17: [Entorno LAMP y despliegue en Docker](lampDocker.MD)  
+
 
 

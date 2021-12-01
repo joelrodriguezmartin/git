@@ -4,10 +4,10 @@ Joel Rodriguez Martín
 # Tarea 20: Balanceo de Carga en Apache
 
 ## Indice
-[Introducción:	1](#introduccion)
-[Paso 1: Instalacion de módulos de Apache:	1](#paso1)
-[Paso 2 Modificar configuracion de Apache:	2](#paso2)
-[Paso 3 Crear contenedores Docker:	2](#paso3)
+[Introducción:	1](#introduccion)       
+[Paso 1: Instalacion de módulos de Apache:	1](#paso1)        
+[Paso 2 Modificar configuracion de Apache:	2](#paso2)        
+[Paso 3 Crear contenedores Docker:	2](#paso3)        
 
 ### Introducción:<a name="introduccion"></a>
 En esta tarea desplegaremos 4 nodos y haremos un balanceo de carga

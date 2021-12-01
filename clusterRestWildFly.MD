@@ -4,9 +4,9 @@ Joel Rodriguez Martín
 # Tarea 18: Cluster Rest Wildfly
 
 ## Indice    
-[Introducción:	1](#introduccion)    
-[Paso 1: Creación del entorno de ficheros	1](#paso1)    
-[Paso 2: Construccion y despliegue:	3](#paso2)   
+[Introducción:	1](#introduccion)       
+[Paso 1: Creación del entorno de ficheros	1](#paso1)       
+[Paso 2: Construccion y despliegue:	3](#paso2)      
 
 ### Introducción:<a name="introduccion"></a>
 En esta tarea realizaremos el despliegue de un servicio Rest en un cluster de 3 WildFly junto con un servidor phpMyAdmin y una base de datos.

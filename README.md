@@ -20,6 +20,9 @@ Tarea 14: [Instalacion de WildFly en Docker](instalacionWildFlyDocker.MD)
 Tarea 15: [Dockerizacion de WildFly](dockerizacionWildFly.MD)  
 Tarea 16: [Clusterizacion de WildFly en Docker](clusterizacionWildFly.MD)  
 Tarea 17: [Entorno LAMP y despliegue en Docker](lampDocker.MD)  
+Tarea 18: [Cluster Rest WildFly](clusterRestWildFly.MD)  
+Tarea 19: [Dockerizacion NodeJS](dockerizacionNodeJS.MD)  
+Tarea 20: [Balanceo de carga Apache](balanceoApache.MD)  
 
 
 
